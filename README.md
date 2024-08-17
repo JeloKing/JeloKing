@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeloKing
 - 👀 I’m interested in reading, art and games.
-- 🌱 I’m currently learning Japanese, python and C# .
+- 🌱 I’m currently learning Japanese and Swedish, python and C# .
 - 💞️ I’m looking to collaborate on Visual Novel projects.
 - 📫 How to reach me deviantart.com/JeloKing
 
